@@ -1,0 +1,14 @@
+public static void(System.in[]){
+
+
+
+if(true)
+{
+System.out.print("Hillberg är cool");
+}
+
+
+
+
+
+}
