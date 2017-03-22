@@ -7,3 +7,6 @@ PAUSE
 PING www.google.com 
 ECHO All done pinging Google. 
 PAUSE
+
+
+arvid är noob
