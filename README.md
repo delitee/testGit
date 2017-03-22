@@ -1,9 +1,3 @@
-# testGit
+﻿# testGit
 
-
-
-
-
-
-
-test sasölallasas
+DONT CHANGE IN MASTER, ALWAYS MAKE A NEW BRANCH BEFORE CHANGES ARE MADE
