@@ -6,7 +6,7 @@ if(true)
 {
 System.out.print("Hillberg ‰r cool");
 }
-
+Hillberg gillar snopp
 
 
 supercool
@@ -14,7 +14,7 @@ supercool
 
 }WFAEAAEGAGEGARAEGAGEAGEFwasdtjaeWFFHGHERWTFCBMFCTUES5YZRSDGFHSDET
 
-
+okay
 
 hillberg är inte så cool
 
